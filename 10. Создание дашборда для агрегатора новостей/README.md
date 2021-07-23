@@ -2,3 +2,5 @@
 Задача: Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.
 
 Библиотеки: pandas, dash, Tableau
+
+https://public.tableau.com/app/profile/tatiana.ochirova/viz/ProjectYandex_Zen_16224827457690/Dashboard1
