@@ -63,10 +63,3 @@
 
 **Библиотеки**: pandas, numpy, matplotlib, seaborn, plotly, math, scipy 
 
-
-### 13. ххх
-**Задача**: ххх
-
-**Библиотеки**: pandas, numpy, scipy, numpy, matplotlib, seaborn, plotly, sklearn
-
- 
